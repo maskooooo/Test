@@ -2,6 +2,7 @@
 #include "keyboard.h"
 
 enum LedState{LED_LEFT, LED_RIGHT, LED_STOP};
+int GitTest = 1;
 
 void Delay(int ms){
 	int wait1;
